@@ -1,2 +1,3 @@
-# cat_decision_tree
-Decision tree classifier for categorical data
+# Decision tree categorical classifier
+
+Sklearn-like decision tree classifier, which works with categorical data. See the code for documentation and illustrations
